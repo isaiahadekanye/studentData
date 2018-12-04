@@ -12,3 +12,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.clickable {
+  cursor: pointer
+}
+
+.tag {
+  text-align: center;
+  color: black;
+  font-size: 50;
+  background-color: grey;
+  padding: 10px;
+  border: 2px solid #FFF;
+  width: 165px;
+  list-style: none;
+  margin: auto;
+  display: inline-block;
+
+}
